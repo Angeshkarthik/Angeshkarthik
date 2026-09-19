@@ -329,6 +329,27 @@ Computer Science and Engineering undergraduate developing practical software eng
 
 ---
 
+# GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Angeshkarthik">
+<img src="https://img.shields.io/github/followers/Angeshkarthik?style=for-the-badge&logo=github&label=Followers&color=7C3AED"/>
+</a>
+
+<a href="https://github.com/Angeshkarthik?tab=repositories">
+<img src="https://img.shields.io/github/repos/Angeshkarthik?style=for-the-badge&logo=github&label=Repositories&color=4F46E5"/>
+</a>
+
+<a href="https://github.com/Angeshkarthik?tab=stars">
+<img src="https://img.shields.io/github/stars/Angeshkarthik?style=for-the-badge&logo=github&label=Stars&color=8B5CF6"/>
+</a>
+
+<a href="https://github.com/Angeshkarthik">
+<img src="https://komarev.com/ghpvc/?username=Angeshkarthik&style=for-the-badge&color=312E81&label=Profile+Views"/>
+</a>
+
+</div>
 
 <br/>
 
@@ -364,44 +385,6 @@ Computer Science and Engineering undergraduate developing practical software eng
 </div>
 
 ---
-
-# Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Angeshkarthik">
-
-<img src="https://img.shields.io/badge/Contribution%20Graph-View%20on%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Angeshkarthik">
-
-<img src="https://img.shields.io/badge/Recent%20Activity-View%20GitHub%20Activity-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<p>
-The contribution snake is generated automatically through GitHub Actions.
-</p>
-
-<a href="https://github.com/Angeshkarthik">
-
-<img src="https://img.shields.io/badge/Contribution%20Snake-View%20on%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
 
 ---
 
