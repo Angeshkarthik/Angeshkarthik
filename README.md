@@ -327,27 +327,60 @@ Computer Science and Engineering undergraduate developing practical software eng
 
 ---
 
+---
+
 # GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Angeshkarthik&show_icons=true&hide_border=true&theme=dark&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&bg_color=0D1117" height="180"/>
+<a href="https://github.com/Angeshkarthik">
+<img src="https://img.shields.io/github/followers/Angeshkarthik?style=for-the-badge&logo=github&label=Followers&color=7C3AED"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angeshkarthik&layout=compact&hide_border=true&theme=dark&title_color=A78BFA&text_color=CBD5E1&bg_color=0D1117" height="180"/>
+<a href="https://github.com/Angeshkarthik?tab=repositories">
+<img src="https://img.shields.io/github/repos/Angeshkarthik?style=for-the-badge&logo=github&label=Repositories&color=4F46E5"/>
+</a>
 
-<br/><br/>
+<a href="https://github.com/Angeshkarthik?tab=stars">
+<img src="https://img.shields.io/github/stars/Angeshkarthik?style=for-the-badge&logo=github&label=Stars&color=8B5CF6"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=Angeshkarthik&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B"/>
+<a href="https://github.com/Angeshkarthik">
+<img src="https://komarev.com/ghpvc/?username=Angeshkarthik&style=for-the-badge&color=312E81&label=Profile+Views"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| GitHub Activity | Details |
+|:---:|:---:|
+| **Repositories** | Projects, experiments and software development work |
+| **DSA** | 160+ LeetCode problems |
+| **Primary Languages** | C · Java · Python |
+| **Development Focus** | Software Engineering · AI · Computer Vision · Web Development |
 
 </div>
 
 ---
 
-# GitHub Trophies
+# GitHub Profile
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Angeshkarthik&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<a href="https://github.com/Angeshkarthik">
+<img src="https://img.shields.io/badge/GitHub-@Angeshkarthik-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Angeshkarthik?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Angeshkarthik?tab=activity">
+<img src="https://img.shields.io/badge/View%20Activity-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -357,7 +390,19 @@ Computer Science and Engineering undergraduate developing practical software eng
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angeshkarthik&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
+<a href="https://github.com/Angeshkarthik">
+
+<img src="https://img.shields.io/badge/Contribution%20Graph-View%20on%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Angeshkarthik">
+
+<img src="https://img.shields.io/badge/Recent%20Activity-View%20GitHub%20Activity-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </div>
 
@@ -367,7 +412,15 @@ Computer Science and Engineering undergraduate developing practical software eng
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Angeshkarthik/Angeshkarthik/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+<p>
+The contribution snake is generated automatically through GitHub Actions.
+</p>
+
+<a href="https://github.com/Angeshkarthik">
+
+<img src="https://img.shields.io/badge/Contribution%20Snake-View%20on%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </div>
 
