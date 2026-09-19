@@ -329,27 +329,6 @@ Computer Science and Engineering undergraduate developing practical software eng
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Angeshkarthik">
-<img src="https://img.shields.io/github/followers/Angeshkarthik?style=for-the-badge&logo=github&label=Followers&color=7C3AED"/>
-</a>
-
-<a href="https://github.com/Angeshkarthik?tab=repositories">
-<img src="https://img.shields.io/github/repos/Angeshkarthik?style=for-the-badge&logo=github&label=Repositories&color=4F46E5"/>
-</a>
-
-<a href="https://github.com/Angeshkarthik?tab=stars">
-<img src="https://img.shields.io/github/stars/Angeshkarthik?style=for-the-badge&logo=github&label=Stars&color=8B5CF6"/>
-</a>
-
-<a href="https://github.com/Angeshkarthik">
-<img src="https://komarev.com/ghpvc/?username=Angeshkarthik&style=for-the-badge&color=312E81&label=Profile+Views"/>
-</a>
-
-</div>
 
 <br/>
 
