@@ -104,19 +104,6 @@ Technical Problem Solving
 
 ---
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Computer Vision | ████████░░ | OpenCV, face detection, face recognition, real-time video processing |
-| AI Applications | ███████░░░ | AI-powered analytics and application development |
-| Data Analysis | ███████░░░ | Python, Pandas, Plotly and financial data analysis |
-| Real-Time Processing | ███████░░░ | Real-time video and computer vision workflows |
-| AI Analytics | ███████░░░ | Technical indicators and LLM-based insights |
-| Machine Learning Foundations | ██████░░░░ | Applied AI/ML project experience |
-
----
-
 # Featured Projects
 
 <details>
@@ -344,13 +331,13 @@ Computer Science and Engineering undergraduate developing practical software eng
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Angeshkarthik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&ring_color=7C3AED" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Angeshkarthik&show_icons=true&hide_border=true&theme=dark&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&bg_color=0D1117" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angeshkarthik&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angeshkarthik&layout=compact&hide_border=true&theme=dark&title_color=A78BFA&text_color=CBD5E1&bg_color=0D1117" height="180"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Angeshkarthik&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B"/>
+<img src="https://streak-stats.demolab.com?user=Angeshkarthik&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B"/>
 
 </div>
 
@@ -360,7 +347,7 @@ Computer Science and Engineering undergraduate developing practical software eng
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Angeshkarthik&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Angeshkarthik&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
@@ -380,7 +367,7 @@ Computer Science and Engineering undergraduate developing practical software eng
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Angeshkarthik/Angeshkarthik/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Angeshkarthik/Angeshkarthik/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
