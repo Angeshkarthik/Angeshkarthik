@@ -214,30 +214,47 @@ An interactive stock market analytics dashboard combining **real-time financial 
 
 <br/>
 
-### Java Compiler Project
+## Projects
 
-A Java-based compiler project implementing core stages involved in processing source code.
+### CodeN — Offline-First Code Execution Environment
 
-| Category | Details |
-|---|---|
-| **Stack** | Java · Lexical Analysis · Parsing · Syntax Analysis |
-| **Scale** | Multi-stage compiler pipeline |
-| **Performance** | Structured source-code processing |
-| **Security** | Syntax and token validation |
-| **Impact** | Practical understanding of compiler architecture |
-| **Repository** | [GitHub](https://github.com/Angeshkarthik) |
+> A desktop code editor and compiler designed to compile and execute programs locally — without cloud compilers or an internet connection.
 
-### Engineering Scope
+**Built with:** `Electron` `React` `TypeScript` `Vite` `Monaco Editor`
 
-- Implemented lexical analysis.
-- Built tokenization logic.
-- Implemented parsing.
-- Applied syntax analysis.
-- Structured source-code processing through multiple compiler stages.
+**Languages**
 
-**Core Technologies**
+`C` `C++` `Java` `Python` `JavaScript`
 
-`Java` `Lexical Analysis` `Tokenization` `Parsing` `Syntax Analysis`
+**What I Built**
+
+- Designed an offline-first desktop development environment.
+- Integrated Monaco Editor for a VS Code-style coding experience.
+- Implemented local compilation and runtime execution.
+- Added support for five programming languages.
+- Built custom input and separate input/output workflows.
+- Added keyboard-driven execution with `Ctrl + Enter`.
+- Implemented process stopping and execution timeout handling.
+- Added workspace tabs with Save/Open functionality.
+- Integrated file exploration and desktop-style navigation.
+- Packaged required runtimes and compilers with the desktop installer.
+
+**Engineering**
+
+```text
+React + TypeScript
+        ↓
+   Monaco Editor
+        ↓
+   Input / stdin
+        ↓
+ Electron Process Layer
+        ↓
+Compiler / Runtime
+        ↓
+   Local Execution
+        ↓
+      Output
 
 </details>
 
