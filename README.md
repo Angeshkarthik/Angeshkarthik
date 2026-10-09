@@ -1,314 +1,253 @@
-<div align="center">
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=4" width="100%" alt="" />
 
 # ANGESH KARTHIK S
 
-### Computer Science Undergraduate · Software Developer
+### Software Developer · CSE Undergraduate
 
-Building practical software with a focus on  
-**Software Engineering · AI · Computer Vision · Developer Tools**
+**Building tools. Exploring AI. Solving problems.**
 
-<br>
+Software Engineering · AI/ML · Computer Vision · Developer Tools
+
+<br/>
 
 <a href="https://github.com/Angeshkarthik">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/angeshkarthik">
-  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:angeshkarthik73@gmail.com">
-  <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/>
 </a>
 <a href="https://leetcode.com/u/angeshkarthik/">
-  <img src="https://img.shields.io/badge/LeetCode-18181B?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-Practice-0D1117?style=for-the-badge&logo=leetcode&logoColor=A78BFA" alt="LeetCode"/>
+</a>
+<a href="mailto:angeshkarthik73@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Angeshkarthik&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Angeshkarthik&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## About
-
-I'm a Computer Science undergraduate at **Bannari Amman Institute of Technology** who enjoys building software and understanding how systems work underneath.
-
-My interests sit around **software engineering, data structures & algorithms, AI, computer vision, and developer tools**.
-
-I prefer learning by building — turning ideas into applications, breaking down problems, and continuously improving how I write and structure software.
+## `01` / About Me
 
 ```text
-Currently learning    → DSA · Python · AI · Software Engineering
-Currently building    → Developer Tools · AI Applications · Web Applications
-Interested in         → Software Engineering · AI/ML · Computer Vision
+I enjoy understanding how software works beneath the surface
+and turning ideas into practical, working applications.
 ```
+
+I'm a Computer Science and Engineering undergraduate at **Bannari Amman Institute of Technology**, interested in building reliable software, exploring AI, and developing tools that solve real problems.
+
+- Building **CodeN**, an offline-first coding environment.
+- Practicing Data Structures and Algorithms.
+- Exploring AI-powered applications and computer vision.
+- Learning through hands-on projects and experimentation.
+- Interested in software engineering internships and open-source collaboration.
 
 ---
 
-## Tech Stack
+## `02` / Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark" alt="Programming languages"/>
 
-### Development
+### Web & Desktop Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,js,nodejs,flask" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,electron,flask&theme=dark" alt="Development technologies"/>
 
-### Data & AI
+### Data, AI & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,mysql,sqlite" />
-  <img src="https://img.shields.io/badge/Pandas-18181B?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-18181B?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-18181B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=opencv,mysql,sqlite,git,github,vscode&theme=dark" alt="Data, AI and development tools"/>
 
-### Tools
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,electron" />
-</p>
+<img src="https://img.shields.io/badge/Pandas-18181B?style=flat-square&logo=pandas&logoColor=A78BFA" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Plotly-18181B?style=flat-square&logo=plotly&logoColor=A78BFA" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Streamlit-18181B?style=flat-square&logo=streamlit&logoColor=A78BFA" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Monaco_Editor-18181B?style=flat-square&logo=visualstudiocode&logoColor=A78BFA" alt="Monaco Editor"/>
+
+</div>
 
 ---
 
-## Featured Projects
+## `03` / Featured Projects
 
-### `01` · CodeN
+### ⚡ CodeN — Offline Coding Environment
 
-**Offline-first code execution environment**
+**Your Code. Your Machine.**
 
-> A desktop development environment for writing, compiling and executing code locally without depending on cloud compilers.
-
-**Stack**
+A desktop development environment designed to write, compile, and execute code locally without relying on cloud compilers.
 
 `Electron` `React` `TypeScript` `Vite` `Monaco Editor`
 
-**Languages**
+- Multi-language coding environment for C, C++, Java, Python, and JavaScript.
+- Local execution and integrated input/output.
+- Workspace tabs and file operations.
+- Process management and execution termination.
+- Offline-first desktop architecture.
 
-`C` `C++` `Java` `Python` `JavaScript`
+[Explore repositories →](https://github.com/Angeshkarthik?tab=repositories)
 
-**Highlights**
+### 📊 Student Skill Tracker
 
-- Monaco-powered coding experience
-- Local compilation and execution
-- Multi-language support
-- Integrated stdin / stdout workflow
-- Process execution and termination handling
-- Workspace tabs and file operations
-- Offline-first architecture
-- Desktop application packaging
-- Electron security configuration
-- No cloud compiler dependency
-
-```text
-Editor
-  │
-  ▼
-Monaco
-  │
-  ▼
-Electron
-  │
-  ├── C / C++
-  ├── Java
-  ├── Python
-  └── JavaScript
-  │
-  ▼
-Local Execution
-  │
-  ▼
-Output
-```
-
-<a href="https://github.com/Angeshkarthik">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-### `02` · Student Skill Tracker
-
-**Technical growth & placement readiness dashboard**
-
-> A web application for tracking DSA progress, technical skills, projects and placement readiness.
-
-**Stack**
+A web application for monitoring technical progress and placement preparation.
 
 `React` `Vite` `Recharts`
 
-**Highlights**
+- DSA and technical skill tracking.
+- Project progress management.
+- Interactive progress visualizations.
+- Placement-readiness dashboard.
 
-- Reusable React components
-- Interactive progress visualization
-- DSA tracking
-- Technical skill tracking
-- Project tracking
-- Placement-readiness dashboard
+[Explore repositories →](https://github.com/Angeshkarthik?tab=repositories)
 
-<a href="https://github.com/Angeshkarthik">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 🤖 AI Stock Market Analysis
 
----
+An interactive financial analytics application combining market data, technical indicators, visualizations, and LLM-assisted insights.
 
-### `03` · AI Stock Market Analysis
+`Python` `Streamlit` `Plotly` `Pandas` `yfinance`
 
-**Interactive financial analytics dashboard**
+- Financial data retrieval and processing.
+- RSI and EMA indicators.
+- Interactive financial charts.
+- AI-assisted market analysis.
 
-> A Python-based application combining financial data, technical indicators and LLM-assisted insights.
+[Explore repositories →](https://github.com/Angeshkarthik?tab=repositories)
 
-**Stack**
+### 👁️ Face Recognition Attendance System
 
-`Python` `Streamlit` `Plotly` `Pandas` `yfinance` `TA`
-
-**Highlights**
-
-- Real-time financial data
-- RSI and EMA indicators
-- Interactive charts
-- Financial data processing
-- LLM-based market insights
-
-<a href="https://github.com/Angeshkarthik">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-### `04` · Face Recognition Attendance
-
-**Computer vision attendance management system**
-
-> An automated attendance system using Python and OpenCV for face detection, recognition and attendance logging.
-
-**Stack**
+A computer vision application for face recognition and automated attendance logging.
 
 `Python` `OpenCV`
 
-**Highlights**
+- Face detection and recognition.
+- Real-time video processing.
+- Automated attendance recording.
 
-- Face detection
-- Face recognition
-- Real-time video processing
-- Automated attendance logging
+[Explore repositories →](https://github.com/Angeshkarthik?tab=repositories)
 
-<a href="https://github.com/Angeshkarthik">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### ⚙️ Java Compiler Project
 
----
-
-### `05` · Java Compiler
-
-**Compiler fundamentals project**
-
-> A Java-based compiler project implementing fundamental stages of source-code processing.
-
-**Stack**
+A project exploring the fundamental stages of compiler design.
 
 `Java`
 
-**Highlights**
+- Lexical analysis and tokenization.
+- Parsing.
+- Syntax analysis.
 
-- Lexical analysis
-- Tokenization
-- Parsing
-- Syntax analysis
-
-<a href="https://github.com/Angeshkarthik">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[Explore repositories →](https://github.com/Angeshkarthik?tab=repositories)
 
 ---
 
-## Problem Solving
+## `04` / GitHub Analytics
 
 <div align="center">
 
-### 160+ LeetCode Problems
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Angeshkarthik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 
-`Arrays` · `Strings` · `Recursion` · `Trees` · `Searching` · `Sorting`
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angeshkarthik&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
 
-Focused on writing efficient solutions while understanding  
-**time complexity · space complexity · problem-solving patterns**
+<br/><br/>
 
-<br>
+<img src="https://streak-stats.demolab.com?user=Angeshkarthik&theme=transparent&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `05` / Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angeshkarthik&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## `06` / GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Angeshkarthik&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" width="100%" alt="GitHub profile trophies"/>
+
+</div>
+
+---
+
+## `07` / Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Angeshkarthik/Angeshkarthik/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## `08` / Problem Solving
+
+<div align="center">
+
+### Data Structures & Algorithms
+
+Arrays · Strings · Hashing · Searching · Sorting · Recursion · Trees · Stacks
+
+Focused on learning problem-solving patterns, writing efficient solutions, and understanding time and space complexity.
+
+<br/>
 
 <a href="https://leetcode.com/u/angeshkarthik/">
-  <img src="https://img.shields.io/badge/LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-18181B?style=for-the-badge&logo=leetcode&logoColor=A78BFA" alt="LeetCode profile"/>
 </a>
 
 </div>
 
 ---
 
-## Certifications
+## `09` / Certifications
 
-| Provider | Certification |
-|:---|:---|
-| **IBM** | Python 101 for Data Science |
-| **Salesforce** | Agentic AI Agentforce — Innovator |
-| **Oracle** | Artificial Intelligence & Cloud Infrastructure |
-| **Infosys Springboard** | AI Foundation Certification |
-
----
-
-## Education
-
-**B.E. Computer Science & Engineering**
-
-Bannari Amman Institute of Technology  
-`2024 — 2028`
-
-**CGPA:** `7.67 / 10`
+| Organization | Certification |
+|:--|:--|
+| IBM | Python 101 for Data Science |
+| Salesforce | Agentic AI Agentforce — Innovator |
+| Oracle | Artificial Intelligence & Cloud Infrastructure |
+| Infosys Springboard | AI Foundation Certification |
 
 ---
 
-## GitHub
+## `10` / Education
 
-<div align="center">
+**B.E. Computer Science and Engineering**
 
-<a href="https://github.com/Angeshkarthik">
-  <img src="https://img.shields.io/badge/GitHub-@Angeshkarthik-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Bannari Amman Institute of Technology
 
-<a href="https://github.com/Angeshkarthik?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/Angeshkarthik?tab=activity">
-  <img src="https://img.shields.io/badge/Activity-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+`2024 – 2028` · **CGPA: 7.67 / 10**
 
 ---
 
-## Currently
+## `11` / Currently Exploring
 
 ```yaml
 learning:
-  - Data Structures & Algorithms
-  - Python
-  - Artificial Intelligence
+  - Data Structures and Algorithms
+  - Python and Artificial Intelligence
   - Software Engineering
 
 building:
+  - CodeN
   - AI-powered applications
   - Developer tools
-  - Web applications
 
-recently_built:
-  - CodeN
-
-exploring:
+interests:
   - AI Engineering
   - Computer Vision
   - Full Stack Development
@@ -316,8 +255,7 @@ exploring:
 
 open_to:
   - Software Engineering Internships
-  - AI / ML Opportunities
-  - Developer Tool Projects
+  - AI/ML Opportunities
   - Open Source Collaboration
 ```
 
@@ -325,15 +263,17 @@ open_to:
 
 <div align="center">
 
-### Build. Learn. Iterate.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3" width="100%" alt=""/>
 
-<br>
+### Build with purpose. Learn continuously. Ship consistently.
+
+<br/>
 
 <a href="mailto:angeshkarthik73@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S%20CONNECT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect"/>
 </a>
 
-<br><br>
+<br/><br/>
 
 <sub>Computer Science · Software Engineering · AI · Developer Tools</sub>
 
