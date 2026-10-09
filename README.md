@@ -72,7 +72,7 @@ I'm a Computer Science and Engineering undergraduate at **Bannari Amman Institut
 
 ### ⚡ CodeN
 
-**Offline-First Code Execution Environment**
+**Completed · Offline-First Code Execution Environment**
 
 A desktop development environment for writing, compiling, and executing code locally.
 
@@ -197,15 +197,15 @@ A Java project exploring fundamental stages of source-code processing.
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark" alt="C, Java, Python, JavaScript"/>
 
-### Web & Desktop Development
+### 🌐 Web & Desktop Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,electron,flask&theme=dark" alt="HTML, CSS, React, Vite, Node.js, Electron, Flask"/>
 
-### Data & AI
+### 🗄️ Data & AI
 
 <img src="https://skillicons.dev/icons?i=opencv,mysql,sqlite&theme=dark" alt="OpenCV, MySQL, SQLite"/>
 
@@ -213,7 +213,7 @@ A Java project exploring fundamental stages of source-code processing.
 <img src="https://img.shields.io/badge/Plotly-161B22?style=for-the-badge&logo=plotly&logoColor=3F4F75" alt="Plotly"/>
 <img src="https://img.shields.io/badge/Streamlit-161B22?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
 
-### Tools
+### 🔧 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"/>
 
@@ -244,15 +244,11 @@ A Java project exploring fundamental stages of source-code processing.
   <img src="https://streak-stats.demolab.com?user=Angeshkarthik&theme=github-dark-blue&hide_border=true&border_radius=10" width="75%" alt="GitHub contribution streak"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=Angeshkarthik&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=C4B5FD&area=true&hide_border=true)](https://github.com/Angeshkarthik)
+<a href="https://github.com/Angeshkarthik">
+  <img src="https://img.shields.io/badge/VIEW%20CONTRIBUTION%20CALENDAR-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View contribution calendar"/>
+</a>
 
 </div>
 
@@ -302,7 +298,7 @@ Focused on problem-solving patterns, efficient algorithms, and time and space co
 
 Bannari Amman Institute of Technology
 
-`2024 – 2028` · **CGPA: 7.67 / 10**
+`2024 – 2028` · **CGPA: 7.70 / 10**
 
 ---
 
