@@ -32,16 +32,6 @@
 </div>
 
 ---
-
-### 🧠 What I'm Exploring
-
-- Data Structures & Algorithms
-- Artificial Intelligence and Machine Learning
-- Full-Stack Development
-- Developer Tools and Software Engineering
-
-
-
 ---
 
 ## 👨‍💻 About Me
