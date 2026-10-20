@@ -86,7 +86,7 @@ A desktop development environment for writing, compiling, and executing code loc
 - Desktop application packaging
 
 <a href="https://github.com/Angeshkarthik?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="CodeN repository"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="CodeN repository"/>
 </a>
 
 </td>
@@ -107,8 +107,11 @@ An AI-driven application that predicts customer churn and helps businesses under
 - Interactive React-based dashboard
 - Actionable insights to support customer retention
 
+<a href="https://github.com/Angeshkarthik/ChurnSight">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="ChurnSight repository"/>
+</a>
 <a href="https://churn-sight-x5mt.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="ChurnSight live demo"/>
+<img src="https://img.shields.io/badge/LIVE%20DEMO-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="ChurnSight live demo"/>
 </a>
 
 </td>
@@ -131,16 +134,11 @@ A Python application combining financial data, technical indicators, visualizati
 - AI-assisted market insights
 
 <a href="https://github.com/Angeshkarthik?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="AI Stock Market Analysis repository"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="AI Stock Market Analysis repository"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
-
-</td>
-</tr>
-<tr>
-<td colspan="2" width="100%" valign="top">
 
 ### 🔭 Current Focus
 
