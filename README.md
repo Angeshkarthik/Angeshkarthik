@@ -139,7 +139,9 @@ A Python application combining financial data, technical indicators, visualizati
 
 </td>
 </tr>
-</table>
+<tr>
+<td colspan="2" width="100%" valign="top">
+
 ### 🔭 Current Focus
 
 **Learning and Engineering**
