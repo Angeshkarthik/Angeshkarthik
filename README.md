@@ -137,8 +137,6 @@ A Python application combining financial data, technical indicators, visualizati
 </td>
 <td width="50%" valign="top">
 
-### 👁️ Face Recognition Attendance
-
 </td>
 </tr>
 </table>
