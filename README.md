@@ -1,32 +1,46 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:7C3AED&height=190&section=header&text=ANGESH%20KARTHIK%20S&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20CSE%20Undergraduate&descSize=15&descAlignY=60" width="100%" alt="Angesh Karthik profile banner"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdieG5vY3hnMWJoYmI4a2R2Y3R2ZHVyam1xcDR4OGprdGZuYWhmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="85" height="85" alt="Coding animation"/>
 
-### Building software. Exploring AI. Solving problems.
+  <h2>Hey, I'm Angesh Karthik 👋</h2>
 
-Software Engineering · AI/ML · Computer Vision · Developer Tools
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=520&height=35&lines=Software+Developer+in+Progress;Exploring+AI+%26+Machine+Learning;Building+Tools+That+Solve+Real+Problems;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
 
-<br/>
+  <p>
+    CSE Undergraduate · Software Engineering · AI/ML
+  </p>
 
-<a href="https://github.com/Angeshkarthik">
-  <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/angeshkarthik">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/angeshkarthik/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
-</a>
-<a href="mailto:angeshkarthik73@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email"/>
-</a>
+  <p>
+    <a href="https://github.com/Angeshkarthik">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:YOUR_EMAIL@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://leetcode.com/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    </a>
+  </p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Angeshkarthik&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Angeshkarthik?style=flat-square&color=8B5CF6&label=FOLLOWERS" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Angeshkarthik&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
+
+---
+
+### 🧠 What I'm Exploring
+
+- Data Structures & Algorithms
+- Artificial Intelligence and Machine Learning
+- Full-Stack Development
+- Developer Tools and Software Engineering
+
+
 
 ---
 
