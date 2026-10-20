@@ -30,39 +30,18 @@
 </div>
 
 ---
----
-
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="62%" valign="top">
+I'm a Computer Science and Engineering undergraduate who enjoys exploring technology, solving problems, and turning ideas into practical solutions.
 
-I'm a Computer Science and Engineering undergraduate at **Bannari Amman Institute of Technology**, passionate about building practical software and understanding how systems work underneath.
+- 🎓 Currently pursuing Computer Science and Engineering
+- 💡 Curious about how things work under the hood
+- 🧩 Enjoy solving problems and learning new concepts
+- 🚀 Believe in learning by building and experimenting
+- 🌱 Continuously improving my technical and problem-solving skills
+- 🤝 Open to collaborating, sharing ideas, and learning from others
 
-- 🎓 B.E. Computer Science and Engineering
-- ⚡ Developed **CodeN**, an offline-first desktop code execution environment
-- 🧠 Practicing Data Structures and Algorithms
-- 🤖 Exploring AI applications and computer vision
-- 🛠️ Interested in developer tools and software architecture
-- 🎯 Open to software engineering internships and open-source collaboration
-
-**My approach:** Learn the fundamentals, build real projects, and improve with every iteration.
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=c,java,python,react,electron,git&theme=dark&perline=3" alt="Core technologies"/>
-
-<br/><br/>
-
-<a href="https://github.com/Angeshkarthik?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
-
-</td>
-</tr>
-</table>
+**My mindset:** Stay curious, keep building, and get a little better every day.
 
 ---
 
@@ -164,23 +143,36 @@ A Python application combining financial data, technical indicators, visualizati
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark" alt="C, Java, Python, JavaScript"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript and TypeScript"/>
 
 ### 🌐 Web & Desktop Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,electron,flask&theme=dark" alt="HTML, CSS, React, Vite, Node.js, Electron, Flask"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,express,electron,tailwind,flask&theme=dark" alt="HTML, CSS, React, Vite, Node.js, Express, Electron, Tailwind CSS and Flask"/>
 
-### 🗄️ Data & AI
+<br/>
 
-<img src="https://skillicons.dev/icons?i=opencv,mysql,sqlite&theme=dark" alt="OpenCV, MySQL, SQLite"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Monaco%20Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Monaco Editor"/>
 
-<img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Plotly-161B22?style=for-the-badge&logo=plotly&logoColor=3F4F75" alt="Plotly"/>
-<img src="https://img.shields.io/badge/Streamlit-161B22?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
+### 🤖 AI, Machine Learning & Data Science
 
-### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,numpy,pandas&theme=dark" alt="OpenCV, scikit-learn, NumPy and Pandas"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"/>
+<br/>
+
+<img src="https://img.shields.io/badge/SHAP-Explainable%20AI-6C3483?style=for-the-badge" alt="SHAP"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq API"/>
+<img src="https://img.shields.io/badge/yfinance-233A67?style=for-the-badge" alt="yfinance"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" alt="MySQL, SQLite and MongoDB"/>
+
+### 🔧 Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=dark" alt="Git, GitHub, VS Code, npm and Postman"/>
 
 </div>
 
@@ -199,84 +191,9 @@ A Python application combining financial data, technical indicators, visualizati
 
 </div>
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/Angeshkarthik">
-  <img src="https://streak-stats.demolab.com?user=Angeshkarthik&theme=github-dark-blue&hide_border=true&border_radius=10" width="75%" alt="GitHub contribution streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Angeshkarthik">
-  <img src="https://img.shields.io/badge/VIEW%20CONTRIBUTION%20CALENDAR-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View contribution calendar"/>
-</a>
-
-</div>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/Angeshkarthik?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
-<a href="https://github.com/Angeshkarthik?tab=activity">
-  <img src="https://img.shields.io/badge/VIEW-ACTIVITY-312E81?style=for-the-badge&logo=github&logoColor=white" alt="View activity"/>
-</a>
-<a href="https://github.com/Angeshkarthik?tab=stars">
-  <img src="https://img.shields.io/badge/EXPLORE-STARS-161B22?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Explore starred repositories"/>
-</a>
-
-</div>
-
----
-
-## 🧩 Problem Solving
-
-<div align="center">
-
-### Data Structures & Algorithms
-
-`Arrays` · `Strings` · `Hashing` · `Searching` · `Sorting` · `Recursion` · `Trees` · `Stacks`
-
-Focused on problem-solving patterns, efficient algorithms, and time and space complexity.
-
-<br/>
-
-<a href="https://leetcode.com/u/angeshkarthik/">
-  <img src="https://img.shields.io/badge/LEETCODE-VIEW%20PROFILE-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile"/>
-</a>
-
-</div>
-
----
-
-## 🎓 Education
-
-**B.E. Computer Science and Engineering**
-
-Bannari Amman Institute of Technology
-
-`2024 – 2028` · **CGPA: 7.70 / 10**
-
----
-
-## 📜 Certifications
-
-| Provider | Certification |
-|:--|:--|
-| IBM | Python 101 for Data Science |
-| Salesforce | Agentic AI Agentforce — Innovator |
-| Oracle | Artificial Intelligence & Cloud Infrastructure |
-| Infosys Springboard | AI Foundation Certification |
-
----
 
 ## 🌱 Currently Exploring
 
@@ -302,7 +219,6 @@ open_to:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0D1117&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 ### Build. Learn. Iterate. 🚀
 
@@ -310,7 +226,7 @@ open_to:
   <img src="https://img.shields.io/badge/LET'S%20CONNECT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
 </a>
 
-<br/><br/>
+
 
 <sub>Computer Science · Software Engineering · AI · Developer Tools</sub>
 
