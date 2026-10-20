@@ -92,22 +92,23 @@ A desktop development environment for writing, compiling, and executing code loc
 </td>
 <td width="50%" valign="top">
 
-### 📊 Student Skill Tracker
+### 📉 ChurnSight
 
-**Technical Growth Dashboard**
+**AI-Powered Customer Churn Prediction & Explainability**
 
-A web application for tracking DSA progress, technical skills, projects, and placement readiness.
+An AI-driven application that predicts customer churn and helps businesses understand the factors influencing customer retention.
 
-`React` `Vite` `Recharts`
+`Python` `Gradient Boosting` `SHAP` `FastAPI` `React`
 
-- DSA progress tracking
-- Technical skill visualization
-- Project tracking
-- Placement-readiness dashboard
-- Reusable React components
+- Customer churn prediction using machine learning
+- Explainable AI with SHAP
+- Identification of factors influencing churn
+- FastAPI backend for model inference
+- Interactive React-based dashboard
+- Actionable insights to support customer retention
 
-<a href="https://github.com/Angeshkarthik?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Student Skill Tracker repository"/>
+<a href="https://churn-sight-x5mt.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="ChurnSight live demo"/>
 </a>
 
 </td>
@@ -138,45 +139,9 @@ A Python application combining financial data, technical indicators, visualizati
 
 ### 👁️ Face Recognition Attendance
 
-**Computer Vision Application**
-
-An attendance management system using Python and OpenCV for face detection, recognition, and attendance logging.
-
-`Python` `OpenCV`
-
-- Face detection and recognition
-- Real-time video processing
-- Automated attendance logging
-
-<a href="https://github.com/Angeshkarthik?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Face Recognition Attendance repository"/>
-</a>
-
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Java Compiler
-
-**Compiler Fundamentals**
-
-A Java project exploring fundamental stages of source-code processing.
-
-`Java`
-
-- Lexical analysis
-- Tokenization
-- Parsing
-- Syntax analysis
-
-<a href="https://github.com/Angeshkarthik?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Java Compiler repository"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
+</table>
 ### 🔭 Current Focus
 
 **Learning and Engineering**
