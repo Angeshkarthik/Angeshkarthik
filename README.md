@@ -1,8 +1,5 @@
  <div align="center">
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdieG5vY3hnMWJoYmI4a2R2Y3R2ZHVyam1xcDR4OGprdGZuYWhmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="85" height="85" alt="Coding animation"/>
-
-  <h2>Hey, I'm Angesh Karthik 👋</h2>
+  <h1>Hey, I'm Angesh Karthik 👋</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=520&height=35&lines=Software+Developer+in+Progress;Exploring+AI+%26+Machine+Learning;Building+Tools+That+Solve+Real+Problems;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG"/>
